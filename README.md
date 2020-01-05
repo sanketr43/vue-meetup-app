@@ -1,4 +1,4 @@
-# vue-meetup-app
+# vue-meetup-app (Vue.Js + Vuex + Vue-Router + Vuetifyjs + Firebase)
 
 ## Project setup
 ```
